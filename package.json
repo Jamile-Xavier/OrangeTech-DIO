@@ -1,0 +1,23 @@
+{
+  "name": "orangetech-dio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jamile-Xavier/OrangeTech-DIO.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jamile-Xavier/OrangeTech-DIO/issues"
+  },
+  "homepage": "https://github.com/Jamile-Xavier/OrangeTech-DIO#readme",
+  "dependencies": {
+    "styled-components": "^5.3.6"
+  }
+}
